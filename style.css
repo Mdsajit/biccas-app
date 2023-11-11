@@ -582,3 +582,11 @@ header {
     box-shadow: 0px 4px 9px 0px rgba(0, 0, 0, 0.05);
     cursor: pointer !important;
 }
+
+.footer {
+    background-color: #161C28;
+}
+
+.footer_section {
+    padding: 130px 0;
+}
